@@ -16,9 +16,8 @@ Table 1. Comparative performance of Optimised SVM with different samples
 |9     | rbf      |   7 | auto    |        3 |   0.980333 |
 |10    | rbf      |   7 | auto    |        5 |   0.979333 |
 
-The following Convergence graph shows the accuracy of sample 8 (maximum accuracy) over the 100 iterations:
 
-![Convergence graph of sample 8](./images/convergence_graph.png)
+![Figure 1. Convergence Graph of best SVM](./images/convergence_graph.png)
 
 
 ## Result
