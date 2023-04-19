@@ -18,6 +18,7 @@ Table 1. Comparative performance of Optimised SVM with different samples
 
 
 Figure 1. Convergence Graph of best SVM
+
 ![Figure 1. Convergence Graph of best SVM](./images/convergence_graph.png)
 
 
