@@ -1,5 +1,7 @@
-# Parameter-Optimization-of-SVM
+## Parameter-Optimization-of-SVM
 
+
+Table 1. Comparative performance of Optimised SVM with different samples
 
 |Sample| Kernel   |   c | gamma   |   degree |   Accuracy |
 |-----:|:---------|----:|:--------|---------:|-----------:|
@@ -16,7 +18,7 @@
 
 The following Convergence graph shows the accuracy of sample 8 (maximum accuracy) over the 100 iterations:
 
-![Convergence graph of sample 8](./images/100_iter.png)
+![Convergence graph of sample 8](./images/convergence_graph.png)
 
 
 ## Result
