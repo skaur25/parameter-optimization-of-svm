@@ -24,7 +24,7 @@ Figure 1. Convergence Graph of best SVM
 
 
 ## Result
-The best parameters of SVC for the given dataset are:
+The best parameters are:
 - Kernel : rbf
 - C : 7
 - Gamma : scale
