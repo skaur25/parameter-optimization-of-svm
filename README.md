@@ -1,4 +1,4 @@
-## Parameter-Optimization-of-SVM
+# Parameter-Optimization-of-SVM
 
 
 Table 1. Comparative performance of Optimised SVM with different samples
@@ -21,7 +21,7 @@ The following Convergence graph shows the accuracy of sample 8 (maximum accuracy
 ![Convergence graph of sample 8](./images/convergence_graph.png)
 
 
-# Result
+## Result
 The best parameters of SVC for the given dataset are:
 - Kernel : rbf
 - C : 7
